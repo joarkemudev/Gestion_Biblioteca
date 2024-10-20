@@ -1,0 +1,31 @@
+-- Crear la base de datos
+CREATE DATABASE GestiosBiblioteca;
+
+
+-- Usar la base de datos
+USE GestionBiblioteca;
+
+
+-- Crear la tabla Autores
+CREATE TABLE autores (
+    AutorId INT IDENTITY(1,1) PRIMARY KEY,  -- Clave primaria
+    Nombre NVARCHAR(255) NOT NULL
+);
+
+-- Crear la tabla Libros
+CREATE TABLE libros (
+    LibroId INT IDENTITY(1,1) PRIMARY KEY,   -- Clave primaria
+    Titulo NVARCHAR(255) NOT NULL,
+    AutorId INT,                             -- Clave foránea
+    FOREIGN KEY (AutorId) REFERENCES autores(AutorId) ON DELETE CASCADE -- Definición de la clave foránea
+);
+
+-- Insertar datos de ejemplo en la tabla Autores
+INSERT INTO autores (Nombre) VALUES ('Gabriel García Márquez');
+INSERT INTO autores (Nombre) VALUES ('Isabel Allende');
+INSERT INTO autores (Nombre) VALUES ('J.K. Rowling');
+
+-- Insertar datos de ejemplo en la tabla Libros
+INSERT INTO libros (Titulo, AutorID) VALUES ('Cien años de soledad', 1); 
+INSERT INTO libros (Titulo, AutorID) VALUES ('La casa de los espíritus', 2); 
+INSERT INTO libros (Titulo, AutorID) VALUES ('Harry Potter y la piedra filosofal', 3);  
