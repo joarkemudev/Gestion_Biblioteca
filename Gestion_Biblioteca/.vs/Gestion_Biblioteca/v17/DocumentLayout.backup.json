@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|c:\\githubusa\\gestion_biblioteca\\gestion_biblioteca\\gestion_biblioteca\\views\\libros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|solutionrelative:gestion_biblioteca\\views\\libros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|c:\\githubusa\\gestion_biblioteca\\gestion_biblioteca\\gestion_biblioteca\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|solutionrelative:gestion_biblioteca\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|c:\\githubusa\\gestion_biblioteca\\gestion_biblioteca\\gestion_biblioteca\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|solutionrelative:gestion_biblioteca\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|c:\\githubusa\\gestion_biblioteca\\gestion_biblioteca\\gestion_biblioteca\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|solutionrelative:gestion_biblioteca\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|c:\\githubusa\\gestion_biblioteca\\gestion_biblioteca\\gestion_biblioteca\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|solutionrelative:gestion_biblioteca\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|c:\\githubusa\\gestion_biblioteca\\gestion_biblioteca\\gestion_biblioteca\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|solutionrelative:gestion_biblioteca\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|c:\\githubusa\\gestion_biblioteca\\gestion_biblioteca\\gestion_biblioteca\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|solutionrelative:gestion_biblioteca\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|c:\\githubusa\\gestion_biblioteca\\gestion_biblioteca\\gestion_biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|solutionrelative:gestion_biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|c:\\githubusa\\gestion_biblioteca\\gestion_biblioteca\\gestion_biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|solutionrelative:gestion_biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|c:\\githubusa\\gestion_biblioteca\\gestion_biblioteca\\gestion_biblioteca\\views\\autores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|solutionrelative:gestion_biblioteca\\views\\autores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|c:\\githubusa\\gestion_biblioteca\\gestion_biblioteca\\gestion_biblioteca\\views\\libros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|solutionrelative:gestion_biblioteca\\views\\libros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|c:\\githubusa\\gestion_biblioteca\\gestion_biblioteca\\gestion_biblioteca\\views\\autores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|solutionrelative:gestion_biblioteca\\views\\autores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|c:\\githubusa\\gestion_biblioteca\\gestion_biblioteca\\gestion_biblioteca\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F780C2-5856-40F9-A585-02BC95ECEEAB}|Gestion_Biblioteca\\Gestion_Biblioteca.csproj|solutionrelative:gestion_biblioteca\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Gestion_Biblioteca\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Gestion_Biblioteca\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T23:11:31.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "Gestion_Biblioteca\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "Gestion_Biblioteca\\Controllers\\LibrosController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T22:31:50.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Gestion_Biblioteca\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Gestion_Biblioteca\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T23:08:00.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "Gestion_Biblioteca\\Models\\Libro.cs",
+              "ToolTip": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\Models\\Libro.cs",
+              "RelativeToolTip": "Gestion_Biblioteca\\Models\\Libro.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T23:02:50.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\Models\\Autor.cs",
+              "RelativeDocumentMoniker": "Gestion_Biblioteca\\Models\\Autor.cs",
+              "ToolTip": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\Models\\Autor.cs",
+              "RelativeToolTip": "Gestion_Biblioteca\\Models\\Autor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T23:00:18.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\appsettings.json",
+              "RelativeDocumentMoniker": "Gestion_Biblioteca\\appsettings.json",
+              "ToolTip": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\appsettings.json",
+              "RelativeToolTip": "Gestion_Biblioteca\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T22:52:42.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\Views\\Autores\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gestion_Biblioteca\\Views\\Autores\\Index.cshtml",
+              "ToolTip": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\Views\\Autores\\Index.cshtml",
+              "RelativeToolTip": "Gestion_Biblioteca\\Views\\Autores\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T22:46:07.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\Views\\Libros\\Create.cshtml",
+              "RelativeDocumentMoniker": "Gestion_Biblioteca\\Views\\Libros\\Create.cshtml",
+              "ToolTip": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\Views\\Libros\\Create.cshtml",
+              "RelativeToolTip": "Gestion_Biblioteca\\Views\\Libros\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T22:46:30.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\Views\\Libros\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gestion_Biblioteca\\Views\\Libros\\Index.cshtml",
+              "ToolTip": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\Views\\Libros\\Index.cshtml",
+              "RelativeToolTip": "Gestion_Biblioteca\\Views\\Libros\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T22:46:50.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\Views\\Autores\\Create.cshtml",
+              "RelativeDocumentMoniker": "Gestion_Biblioteca\\Views\\Autores\\Create.cshtml",
+              "ToolTip": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\Views\\Autores\\Create.cshtml",
+              "RelativeToolTip": "Gestion_Biblioteca\\Views\\Autores\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T22:45:54.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AutoresController.cs",
+              "DocumentMoniker": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\Controllers\\AutoresController.cs",
+              "RelativeDocumentMoniker": "Gestion_Biblioteca\\Controllers\\AutoresController.cs",
+              "ToolTip": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\Controllers\\AutoresController.cs",
+              "RelativeToolTip": "Gestion_Biblioteca\\Controllers\\AutoresController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAvwA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T22:45:06.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Gestion_Biblioteca\\Program.cs",
+              "ToolTip": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\Program.cs",
+              "RelativeToolTip": "Gestion_Biblioteca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T22:39:13.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Gestion_Biblioteca\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\GitHubUsa\\Gestion_Biblioteca\\Gestion_Biblioteca\\Gestion_Biblioteca\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Gestion_Biblioteca\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T22:37:21.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

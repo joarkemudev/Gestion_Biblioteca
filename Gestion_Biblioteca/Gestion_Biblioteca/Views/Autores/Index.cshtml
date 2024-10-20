@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Gestion_Biblioteca.Models.Autor>
+
+<div class="container text-center">
+    <h2>Lista de Autores</h2>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Nombre</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <!-- Botón de Crear -->
+    <div class="form-group row">
+        <div class="col-md-12 text-center">
+            <p class="btn btn-primary btn-lg">
+                <a href="/Libros/Create" class="btn btn-primary">Agregar Libro</a>
+            </p>
+            <p class="btn btn-primary btn-lg">
+                <a href="/Autores/Create" class="btn btn-primary">Agregar Autor</a>
+            </p>
+        </div>
+    </div>
+</div>

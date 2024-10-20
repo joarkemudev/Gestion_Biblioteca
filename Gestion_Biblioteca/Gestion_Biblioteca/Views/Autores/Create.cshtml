@@ -1,0 +1,32 @@
+﻿@model Gestion_Biblioteca.Models.Autor
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<div class="container text-center">
+    <h2>Agregar Autor</h2>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <div class="form-horizontal">
+            <div class="form-group row mb-4">
+            
+                    @Html.LabelFor(model => model.Nombre, new { @class = "col-md-2 control-label" })
+                <div class="col-md-8">
+                     @Html.EditorFor(model => model.Nombre, new { htmlAttributes = new { @class = "form-control" } })
+                </div>
+            </div>
+            <hr />
+            <!-- Botón de Guardar -->
+            <div class="form-group row">
+                <div class="col-md-12 text-center">
+                    <!-- Centrado con text-center -->
+                    <input type="submit" value="Guardar" class="btn btn-primary btn-lg" /> <!-- Tamaño grande con btn-lg -->
+                </div>
+            </div> 
+        </div>
+    }
+</div>
+
+
+

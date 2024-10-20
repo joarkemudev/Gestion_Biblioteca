@@ -1,0 +1,38 @@
+﻿@model Gestion_Biblioteca.Models.Libro
+
+<div class="container text-center">
+    <h2>Agregar Libro</h2>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <!-- Campo para Título -->
+            <div class="form-group row mb-4">
+                @Html.LabelFor(model => model.Titulo, new { @class = "col-md-2 control-label" })
+                <div class="col-md-8">
+                    @Html.EditorFor(model => model.Titulo, new { htmlAttributes = new { @class = "form-control" } })
+                </div>
+            </div>
+            <!-- Campo para Autor (lista desplegable) -->
+            <div class="form-group row mb-4">
+                @Html.LabelFor(model => model.AutorID, "Autor", new { @class = "col-md-2 control-label" })
+                <div class="col-md-8">
+                    @Html.DropDownList("AutorID", null, "Seleccione un autor", new { @class = "form-control" })
+                </div>
+            </div>
+
+            <!-- Línea separadora -->
+            <hr />
+
+            <!-- Botón de Guardar -->
+            <div class="form-group row">
+                <div class="col-md-12 text-center">
+                    <!-- Centrado con text-center -->
+                    <input type="submit" value="Guardar" class="btn btn-primary btn-lg" /> <!-- Tamaño grande con btn-lg -->
+                </div>
+            </div>
+        </div>
+    }
+</div>
