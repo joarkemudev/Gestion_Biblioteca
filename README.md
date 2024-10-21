@@ -17,7 +17,7 @@ SQL Server.
 3. Configuración del Archivo appsettings.json
 
 4. Iniciar la Aplicación
-Ejecuta la Aplicación: Abre un navegador web y ve a http://localhost:5000 (o el puerto que tu aplicación esté usando).
+Ejecuta la Aplicación: Abre un navegador web y ve a http://localhost:5000 (o el puerto que la aplicación esté usando).
 
 •Enlace al repositorio en caso de que la documentación se comparta de manera separada.
 https://github.com/joarkemudev/Gestion_Biblioteca
